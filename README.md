@@ -1,13 +1,64 @@
-- 👋 yo i’m @orangejuiceplz
+# Hey!
 
-> i'm fairly active
+I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, and **LUA** based projects which are my favorite languages.
 
-> if you want, add me on discord. its @orangejuiceplz
+### And I know, there is another person named orangejuiceplz.
+>Yes we've spoken, and she's really sweet! However, she's not me.
 
-- interested in computer sciences, mainly software development
 
-- i am not affiliated with anything but i say here
 
-- i am aware there are others with my name, so i will say i only have discord.
+- :seedling: &nbsp;I'm currently learning **[C++](https://isocpp.org/tour)**
+- :speech_balloon: &nbsp;I like to talk about **C++**, **other technologies,** and **Arch Linux**
+- :mailbox: &nbsp;Ask me anything your heart desires, I'm ready to assist you (AI response, LOL) :)
 
-- c++, lua, java lang primarily
+- :bird: &nbsp;Let's talk more on **[Discord](https://discord.gg/yYdE2S43cY)**
+
+## 🛠️ My personal tech stack
+
+> These are tools, languages, and other things that I primarily work with.
+
+![C++](https://img.icons8.com/?size=50&id=40669&format=png&color=000000)
+![Java](https://img.icons8.com/?size=50&id=GPfHz0SM85FX&format=png&color=000000)
+![LUA](https://img.icons8.com/?size=50&id=utx96pPa33XK&format=png&color=000000)
+![CMake](https://img.icons8.com/?size=40&id=K6Jm3KxEwqz9&format=png&color=000000)
+![GCC](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/35px-GNU_Compiler_Collection_logo.svg.png)
+![NeoVim](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/35px-Neovim-mark.svg.png)
+![Bash](https://img.icons8.com/plasticine/50/bash.png)
+![Docker](https://img.icons8.com/color/50/docker.png)
+![Linux](https://img.icons8.com/color/50/linux.png)
+![Arch](https://img.icons8.com/?size=50&id=lkk6STbDNYML&format=png&color=000000)
+
+
+## 📈 Stats
+
+<span>
+	<img src="https://github-readme-stats.vercel.app/api?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord" alt="TangoMan75 Github stats">
+</span>
+<span>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord&layout=compact" alt="Top Langs">
+</span>
+
+
+## 🏆 GitHub Profile Trophy
+
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=orangejuiceplz&row=1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Top (Published, haha) Projects
+
+<a href="https://github.com/orangejuiceplz/smartCalc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=smartCalc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="shoe" />
+</a>
+
+
+
+## 📬 Message me anywhere you'd like!
+
+[![orangejuiceplzdev@gmail.com](https://img.shields.io/badge/orangejuiceplzdev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white)](mailto:mat@orangejuiceplzdev@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/orangejuiceplz) 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/11271863070301992?domain=https%3A%2F%2Fmastodon.social)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Forangejuiceplz&labelColor=%23697689&countColor=%2337d67a&style=flat)
+![Discord](https://img.shields.io/discord/1087366162767167498)
+
+
+
