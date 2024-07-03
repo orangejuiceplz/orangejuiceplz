@@ -32,7 +32,7 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 ## 📈 Stats
 
 <span>
-	<img src="https://github-readme-stats.vercel.app/api?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord" alt="TangoMan75 Github stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord" alt="orangejuiceplz Github stats">
 </span>
 <span>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord&layout=compact" alt="Top Langs">
@@ -48,6 +48,9 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 
 <a href="https://github.com/orangejuiceplz/smartCalc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=smartCalc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="shoe" />
+</a>
+<a href="https://github.com/orangejuiceplz/System-Monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=System-Monitor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="System-Monitor" />
 </a>
 
 
