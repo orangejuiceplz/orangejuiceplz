@@ -9,9 +9,9 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 
 - :seedling: &nbsp;I'm currently learning **[C++](https://isocpp.org/tour)**
 - :speech_balloon: &nbsp;I like to talk about **C++**, **other technologies,** and **Arch Linux**
-- :mailbox: &nbsp;Ask me anything your heart desires, I'm ready to assist you (AI response, LOL) :)
+- :mailbox: &nbsp;Ask me anything, I'll gladly provide my two cents.
 
-- :bird: &nbsp;Let's talk more on **[Discord](https://discord.gg/yYdE2S43cY)**
+- :bird: &nbsp;Let's talk more on **[Discord](https://discord.gg/yYdE2S43cY)** -- or if you prefer to reach me directly, I'm **@orangejuiceplz**!!
 
 ## 🛠️ My personal tech stack
 
@@ -53,13 +53,19 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=System-Monitor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="System-Monitor" />
 </a>
 
+## Commit History
 
+System-Monitor: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/System-Monitor)
+
+smartcalc: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/smartCalc)
+
+Secure-Performance-Fixes: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/Secure-Performance-Fixes)
 
 ## 📬 Message me anywhere you'd like!
 
 [![orangejuiceplzdev@gmail.com](https://img.shields.io/badge/orangejuiceplzdev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white)](mailto:mat@orangejuiceplzdev@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/orangejuiceplz) 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/11271863070301992?domain=https%3A%2F%2Fmastodon.social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/112718630703019992)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Forangejuiceplz&labelColor=%23697689&countColor=%2337d67a&style=flat)
 ![Discord](https://img.shields.io/discord/1087366162767167498)
 
