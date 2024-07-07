@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=orangejuiveplz&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="orangejuiceplz" /> </p>
+
 # Hey!
 
 I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, and **LUA** based projects which are my favorite languages.
@@ -32,25 +34,31 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 ## 📈 Stats
 
 <span>
-	<img src="https://github-readme-stats.vercel.app/api?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord" alt="orangejuiceplz Github stats">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=orangejuiceplz&theme=tokyonight">
 </span>
 <span>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejuiceplz&show_icons=1&count_private=true&hide_border=1&theme=nord&layout=compact" alt="Top Langs">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=orangejuiceplz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats">
+<span>
+<span>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orangejuiceplz&theme=tokyonight">
+<span>
+<span>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejuiceplz&theme=tokyonight&langs_count=8)">
 </span>
 
 
 ## 🏆 GitHub Profile Trophy
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=orangejuiceplz&row=1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=orangejuiceplz&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🗂️ Top (Published, haha) Projects
 
 <a href="https://github.com/orangejuiceplz/smartCalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=smartCalc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="shoe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&theme=tokyonight&repo=smartCalc" />
 </a>
 <a href="https://github.com/orangejuiceplz/System-Monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=System-Monitor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="System-Monitor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&theme=tokyonight&repo=System-Monitor"/>
 </a>
 
 ## Commit History
