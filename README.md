@@ -2,7 +2,7 @@
 
 # Hey!
 
-I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, and **LUA** based projects which are my favorite languages.
+I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, **LUA**, and now **Python** based projects which are my top languages.
 
 ### And I know, there is another person named orangejuiceplz.
 >Yes we've spoken, and she's really sweet! However, she's not me.
@@ -26,6 +26,10 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 ![GCC](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/35px-GNU_Compiler_Collection_logo.svg.png)
 ![NeoVim](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/35px-Neovim-mark.svg.png)
 ![Bash](https://img.icons8.com/plasticine/50/bash.png)
+![Python]()
+![Javascript]()
+![HTML]()
+![CSS}()
 ![Docker](https://img.icons8.com/color/50/docker.png)
 ![Linux](https://img.icons8.com/color/50/linux.png)
 ![Arch](https://img.icons8.com/?size=50&id=lkk6STbDNYML&format=png&color=000000)
