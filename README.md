@@ -5,7 +5,11 @@
 I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, **LUA**, and now **Python** based projects which are my top languages.
 
 ### And I know, there is another person named orangejuiceplz.
->Yes we've spoken, and she's really sweet! However, she's not me.
+>Yes we've spoken, and she's really sweet! However, she's not me. We actually collab on stuff a lot so...
+
+>yes yes, thats me!!! i'm the one he's refering to. hi guys!!!
+
+>Thats her for you.
 
 
 
