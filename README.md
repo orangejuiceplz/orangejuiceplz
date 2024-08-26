@@ -9,6 +9,10 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 
 >yes yes, thats me!!! i'm the one he's refering to. hi guys!!!
 
+>my name's Destinee Shiina!!
+
+>find me at @shiinadestinee!!!
+
 >Thats her for you.
 
 
