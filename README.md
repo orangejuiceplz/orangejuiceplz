@@ -56,7 +56,7 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orangejuiceplz&theme=tokyonight">
 <span>
 <span>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejuiceplz&theme=tokyonight&langs_count=8)">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orangejuiceplz&theme=tokyonight">
 </span>
 
 
