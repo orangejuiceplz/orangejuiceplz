@@ -15,7 +15,9 @@ I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open 
 
 >Thats her for you.
 
->Our relationship, is well. She's...........
+>Our relationship, is well. She's........... not my girlfriend
+
+>However someone special is!! ❤️
 
 
 - :seedling: &nbsp;I'm currently learning **[C++](https://isocpp.org/tour)**
