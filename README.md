@@ -2,22 +2,26 @@
 
 # Hey!
 
-I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, **LUA**, and now **Python** based projects which are my top languages.
+~~I'm [orangejuiceplz](https://the-bar-juiceandco-9013117d.koyeb.app/), an **open source developer** and maintainer of a few projects from the United States. I am very interested in **cybersecurity** along with creating useful software. I  enjoy working on **C++**, **Java**, **LUA**, and now **Python** based projects which are my top languages.~~
+
+lets get to the point; i'm lazy as shit
 
 ### And I know, there is another person named orangejuiceplz.
->Yes we've spoken, and she's really sweet! However, she's not me. We actually collab on stuff a lot so...
+>~~Yes we've spoken, and she's really sweet! However, she's not me. We actually collab on stuff a lot so...~~
 
->yes yes, thats me!!! i'm the one he's refering to. hi guys!!!
+>~~yes yes, thats me!!! i'm the one he's refering to. hi guys!!!~~
 
->my name's Destinee Shiina!!
+>~~my name's Destinee Shiina!!~~
 
->find me at @shiinadestinee!!!
+>~~find me at @shiinadestinee!!!~~
 
->Thats her for you.
+>~~Thats her for you.~~
 
->Our relationship, is well. She's........... not my girlfriend
+>~~Our relationship, is well. She's........... not my girlfriend~~
 
->However someone special is!! ❤️
+>~~However someone special is!! ❤️~~
+
+> this don't exactly matter. ok maybe the last one does
 
 
 - :seedling: &nbsp;I'm currently learning **[C++](https://isocpp.org/tour)**
