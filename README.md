@@ -1,20 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=orangejuiveplz&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="orangejuiceplz" /> </p>
 
->copy this, copy that,
->
->
->at the end of the day,
->just another copy cat
->
->
->i can copy anything!
+>[!TIP]
+>Working on my own C++ course for people to use!
 
 
 - :seedling: &nbsp;I'm currently learning **[C++](https://isocpp.org/tour)**
 - :speech_balloon: &nbsp;I like to talk about **C++**, **other technologies,** and **Arch Linux**
-- :mailbox: &nbsp;Ask me anything, I'll gladly provide my two cents.
+- :mailbox: &nbsp;ama.
 
-- :bird: &nbsp;Let's talk more on **[Discord](https://discord.gg/yYdE2S43cY)** -- or if you prefer to reach me directly, I'm **@orangejuiceplz**!!
+- :bird: &nbsp;Let's talk more on **[Discord](https://discord.gg/yYdE2S43cY)** -- or if you prefer to reach me directly, I'm **@orangejuiceplz**!
 
 ## 🛠️ My personal tech stack
 
@@ -67,8 +61,6 @@
 </a>
 
 ## Commit History
-
-System-Monitor: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/System-Monitor)
 
 smartcalc: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/smartCalc)
 
