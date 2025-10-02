@@ -11,7 +11,7 @@
 </div>
 
 >[!TIP]
->Working on my own C++ course for people to use!
+>working on my own C++ course for people to use!
 
 <div align="center">
   <img src="https://github.com/orangejuiceplz/orangejuiceplz/blob/main/assets/coding.gif" width="400" alt="Coding"/>
