@@ -70,41 +70,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=orangejuiceplz&theme=catppuccin_mocha&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-## 🗂️ projects
 
-<div align="center">
-  <a href="https://github.com/orangejuiceplz/smartCalc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=smartCalc&theme=catppuccin_mocha" alt="SmartCalc"/>
-  </a>
-  <a href="https://github.com/orangejuiceplz/System-Monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=System-Monitor&theme=catppuccin_mocha" alt="System Monitor"/>
-  </a>
-  <a href="https://github.com/orangejuiceplz/learn-cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=learn-cpp&theme=catppuccin_mocha" alt="Learn C++"/>
-  </a>
-  <a href="https://github.com/orangejuiceplz/math-rs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orangejuiceplz&repo=math-rs&theme=catppuccin_mocha" alt="Math RS"/>
-  </a>
-</div>
-
-## 📊 dev activitiy
+## 📊 current activitiy
 
 <div align="center">
 
-![SmartCalc Activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/smartCalc?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e&color=a6e3a1&label=SmartCalc%20Commits)
-![Learn C++ Activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/learn-cpp?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e&color=cba6f7&label=Learn%20C%2B%2B%20Commits)
-![Math RS Activity](https://img.shields.io/github/commit-activity/y/orangejuiceplz/math-rs?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e&color=fab387&label=Math%20RS%20Commits)
-
+i'll update this with something, like commits today or smth
 </div>
 
 ## 💬 connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-orangejuiceplzdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:orangejuiceplzdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-orangejuiceplz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e)](https://github.com/orangejuiceplz)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1e2e)](https://discord.gg/yYdE2S43cY)
-[![Mastodon](https://img.shields.io/mastodon/follow/112718630703019992?domain=https%3A%2F%2Fmastodon.social&style=for-the-badge&logo=mastodon&logoColor=white&labelColor=1e1e2e&color=cba6f7)](https://mastodon.social/@orangejuiceplz)
+[![Email](https://img.shields.io/badge/Email-orangejuiceplzdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1e1e2e)](mailto:orangejuiceplzdev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-orangejuiceplz-181717?style=for-the-badge&logo=github&logoColor=black&labelColor=1e1e2e)](https://github.com/orangejuiceplz)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=black&labelColor=1e1e2e)](https://discord.gg/yYdE2S43cY)
+[![Mastodon](https://img.shields.io/mastodon/follow/112718630703019992?domain=https%3A%2F%2Fmastodon.social&style=for-the-badge&logo=mastodon&logoColor=black&labelColor=1e1e2e&color=cba6f7)](https://mastodon.social/@orangejuiceplz)
 
 </div>
 
